@@ -19,17 +19,6 @@
 
 ---
 
-### 📊 GitHub Activity
-![srcheatbythang2k6's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srcheatbythang2k6&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srcheatbythang2k6&layout=compact&theme=tokyonight)
-
----
-
-### 🏆 GitHub Trophies
-[![github trophy](https://github-profile-trophy.vercel.app/?username=srcheatbythang2k6&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ### ✍️ Favorite Quote
 *"Code is like humor. When you have to explain it, it’s bad."*
 
