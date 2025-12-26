@@ -1,7 +1,5 @@
 # Hi, I'm Thắng! 👋
 
-![Developer Header](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Fullstack%20Software%20Engineer&fontSize=40)
-
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on building high-performance web applications.
 - 🌱 I’m constantly exploring new technologies in the PHP and JavaScript ecosystems.
