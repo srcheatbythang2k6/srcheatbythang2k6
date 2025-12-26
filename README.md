@@ -12,10 +12,9 @@
 ### 🛠️ My Toolbox
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | PHP, C++/C#, SQL, HTML, CSS |
-| **Frameworks** | Laravel, Bootstrap 5, Vue.js |
-| **Backend** | Node.js, MySQL, MariaDB, Redis |
-| **DevOps** | Git, Apache, Ubuntu Server, Shell Scripting |
+| **Languages** | Shell, C++/C#, SQL, HTML, CSS |
+| **Backend** | Node.js, MySQL, MariaDB |
+| **DevOps** | Git, Github, Ubuntu Server, Shell Scripting, VS Code  |
 
 ---
 
